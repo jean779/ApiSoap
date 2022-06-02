@@ -1,0 +1,8 @@
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\WebServiceCorreios.exe.config
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\WebServiceCorreios.exe
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\bin\Debug\WebServiceCorreios.pdb
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\WebServiceCorreios.csproj.AssemblyReference.cache
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\WebServiceCorreios.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\WebServiceCorreios.csproj.CoreCompileInputs.cache
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\WebServiceCorreios.exe
+C:\Users\jeanf\source\repos\WebServiceCorreios\WebServiceCorreios\obj\Debug\WebServiceCorreios.pdb
